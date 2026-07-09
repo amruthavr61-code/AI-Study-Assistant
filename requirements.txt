@@ -1,4 +1,4 @@
 streamlit
-streamlit-mic-recorder
-assemblyai
-deep-translator
+streamlit-option-menu
+groq
+python-dotenv
